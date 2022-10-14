@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ICT Technology Solution Center**
 
-- 🌱 I’m currently learning **Vue , React ,Flutter , Laravel**
+- 🌱 I’m currently learning **Vue ,Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Juneict](https://github.com/Juneict)
 
