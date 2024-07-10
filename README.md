@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Web developer</h1>
 <h3 align="center">A passionate web developer from Myanmar</h3>
 
-- 🔭 I’m currently working on **Secure Link**
+- 🔭 I’m currently working as Freelancer
 
 - 🌱 I’m currently learning **Vue ,Laravel**
 
