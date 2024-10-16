@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Web developer</h1>
-<h3 align="center">A passionate web developer from Myanmar</h3>
-
-- 🔭 I’m currently working as Freelancer
-
-- 🌱 I’m currently learning **Vue ,Laravel**
+<h3 align="center">A passionate web developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Juneict](https://github.com/Juneict)
 
-- 💬 Ask me about **Vue ,Laravel**
+- 💬 Ask me about **Vue ,Laravel, Node.js, React**
 
 - 📫 How to reach me **junemoenyinyiict@gmail.com**
 
