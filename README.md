@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Web developer</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A FullStack Web developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Juneict](https://github.com/Juneict)
 
