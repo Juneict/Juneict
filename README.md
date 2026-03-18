@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Web developer</h1>
-<h3 align="center">A FullStack Web developer</h3>
+<h1 align="center">Hi 👋, I'm Backend Web developer</h1>
+<h3 align="center">A Backend Web developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Juneict](https://github.com/Juneict)
-
-- 💬 Ask me about **Vue ,Laravel, Node.js, React**
 
 - 📫 How to reach me **junemoenyinyiict@gmail.com**
 
